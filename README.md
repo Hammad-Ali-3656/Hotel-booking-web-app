@@ -11,8 +11,8 @@ Before you begin, ensure you have Node.js installed on your system.
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone 
-cd mern-booking-app
+git clone https://github.com/Hammad-Ali-3656/Hotel-booking-web-app
+cd mern-hotel-booking-app
 ```
 
 ## Backend Configuration
